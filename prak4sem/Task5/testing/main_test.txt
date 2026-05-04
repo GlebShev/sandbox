@@ -1,0 +1,25 @@
+pwd
+
+ls
+
+ls > out.txt
+
+echo "Hello" >> out.txt
+
+cat < out.txt | wc -l
+
+ls | wc -l
+
+cat out.txt | grep Hello
+
+sleep 5 & echo "qqq"
+
+echo This is not a comment # This is a comment
+
+echo $USER
+
+echo $SHELL
+
+( cd .. ;  ls ) | sort
+
+sort -n < source | grep 'xyz' | cat > result

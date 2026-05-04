@@ -1,0 +1,9 @@
+( ls | grep txt ) && echo "Found" || echo "Not Found"
+
+cat file | grep error > errors.txt
+
+grep error < input.txt > output.txt
+
+( echo Start && ls ) || echo "Failed"
+
+echo $HOME

@@ -1,0 +1,15 @@
+ls
+
+pwd
+
+cd ..
+
+ls | wc
+
+ls && pwd
+
+( cd .. ; pwd )
+
+ls > out.txt
+
+ls & pwd

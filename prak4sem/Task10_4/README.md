@@ -1,0 +1,1 @@
+[грамматика и описание реализации](https://docs.google.com/document/d/1E0nNd3D68ZZOgbrNQ5e5fkJjnaP87GGCO5YKXNOR2yI/edit?usp=sharing)
